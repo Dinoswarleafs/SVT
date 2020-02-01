@@ -1,2 +1,5 @@
 # SVTDevStuf
-Meme
+TODO:
+
+Done:
+- Scrape Accuweather
